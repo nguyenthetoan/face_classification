@@ -139,4 +139,3 @@ def split_data(x, y, validation_split=.2):
     train_data = (train_x, train_y)
     val_data = (val_x, val_y)
     return train_data, val_data
-
